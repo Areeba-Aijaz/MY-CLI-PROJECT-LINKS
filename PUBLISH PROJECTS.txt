@@ -1,0 +1,15 @@
+PUBLISH PROJECTS
+npx calculator-areebayousufzai@1.1.0
+npx latestquizgamebyareebayousfzai@1.3.0
+npx countdowntimerbyareebayousufzai@1.3.0
+npx atmbyareebayousufzai@1.1.0
+npx number-guessing-game-by-areebayousufzai@1.2.0
+npx gameadventure-by-areebaaijaz@1.1.0
+npx currency-converter-by-areeba-aijaz@1.1.0
+npx word-counter-by-areebaaijaz@1.0.0
+npx todo-list-by-areebaaijaz@1.1.0
+npx oop-by-areebaaijaz@1.1.0
+npx oop-mybankbyareebayousufzai@1.2.0
+npx student-managment-system-byareebayousufzai@1.1.0
+
+
